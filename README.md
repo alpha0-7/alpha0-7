@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Delano.
+### # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Delano.
 #### I am an cyber security enthusiast.
 ![I am an cyber security enthusiast.](https://pbs.twimg.com/profile_banners/1399720115529306115/1647890720/1500x500)
 
