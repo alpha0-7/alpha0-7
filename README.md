@@ -1,8 +1,7 @@
-### # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Delano.
-#### I am an cyber security enthusiast.
 ![I am an cyber security enthusiast.](https://pbs.twimg.com/profile_banners/1399720115529306115/1647890720/1500x500)
+### # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Delano.
 
-Just a young man that is in InfoSec looking to grow and build my knowledge in the Cyber Security field.
+I am an cyber security enthusiast that is in InfoSec looking to grow and build my knowledge in the Cyber Security field.
 </br>
 Check out my other profiles:
 </br>
