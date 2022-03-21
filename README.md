@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Delano.
+#### I am an cyber security enthusiast.
+![I am an cyber security enthusiast.](https://pbs.twimg.com/profile_banners/1399720115529306115/1647890720/1500x500)
 
-Just a simple weirdo that is in InfoSec looking to grow and build my knowledge in the Cyber Security field.
+Just a young man that is in InfoSec looking to grow and build my knowledge in the Cyber Security field.
 </br>
 Check out my other profiles:
 </br>
@@ -9,5 +11,15 @@ Check out my other profiles:
 <a href="https://azt3c.medium.com/">MiniBlog</a>
 </br>
 <a href="https://tryhackme.com/p/Azt3c">TryHackMe</a>
-# Github Stats:
+
+Skills: PYTHON / HTML / CSS
+
+- 🔭 I’m currently working on builing my skills in the Cyber Security Domains. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha0-7&show_icons=true&theme=radical)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alpha0-7)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alpha0-7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_.vlone_za/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DMtaner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://azt3c.medium.com/)  
+
+![Profile views](https://gpvc.arturio.dev/alpha0-7)  
