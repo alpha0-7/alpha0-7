@@ -10,6 +10,10 @@ Check out my other profiles:
 <a href="https://azt3c.medium.com/">MiniBlog</a>
 </br>
 <a href="https://tryhackme.com/p/Azt3c">TryHackMe</a>
+</br>
+<a href="https://play.picoctf.org/users/Azt3c">PicoCTF</a>
+</br>
+<a href="https://ctf.socvel.com/users/536">SocVel</a>
 
 Skills: PYTHON / HTML / CSS
 
