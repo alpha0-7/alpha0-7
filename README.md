@@ -14,6 +14,8 @@ Check out my other profiles:
 <a href="https://play.picoctf.org/users/Azt3c">PicoCTF</a>
 </br>
 <a href="https://ctf.socvel.com/users/536">SocVel</a>
+</br>
+<a href="https://cyberdefenders.org/profile/Azt3c">CyberDefenders</a>
 
 Skills: PYTHON / HTML / CSS
 
