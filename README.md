@@ -16,6 +16,8 @@ Check out my other profiles:
 <a href="https://ctf.socvel.com/users/536">SocVel</a>
 </br>
 <a href="https://cyberdefenders.org/profile/Azt3c">CyberDefenders</a>
+</br>
+<a href="https://app.letsdefend.io/public_profile/user/azt3c/25dcf1f8-7434-411a-b431-f9e209e94ee9/">LetsDefend</a>
 
 Skills: PYTHON / HTML / CSS
 
