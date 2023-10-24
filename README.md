@@ -1,4 +1,3 @@
-![I am an cyber security enthusiast.](https://pbs.twimg.com/profile_banners/1399720115529306115/1647890720/1500x500)
 ## Hi there my name is Delano.
 
 I am an cyber security enthusiast that is in InfoSec looking to grow and build my knowledge in the Cyber Security field.
